@@ -25,3 +25,5 @@ Las credenciales no se guardan en este repositorio: se configuran únicamente en
 El repositorio incluye `render.yaml` para crear un Static Site. La compilación
 usa `npm ci && npm run build` y publica la carpeta `dist`. La variable
 `VITE_API_URL` apunta al backend de producción.
+
+Backend de producción: `https://backendupbtest-tjvs.onrender.com`.
